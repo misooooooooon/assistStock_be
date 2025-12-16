@@ -1,0 +1,177 @@
+{
+    "best_params": {
+        "strategy_RSI": true,
+        "strategy_MA": true,
+        "strategy_BB": true,
+        "rsi_window": 19,
+        "rsi_buy": 27,
+        "rsi_sell": 84,
+        "ma_short": 20,
+        "ma_long": 200,
+        "bb_window": 20,
+        "bb_dev": 2
+    },
+    "best_score": 47.18553268452739,
+    "history": [
+        {
+            "generation": 0,
+            "best_score": 47.18553268452739,
+            "best_params": {
+                "strategy_RSI": true,
+                "strategy_MA": true,
+                "strategy_BB": true,
+                "rsi_window": 19,
+                "rsi_buy": 27,
+                "rsi_sell": 84,
+                "ma_short": 20,
+                "ma_long": 200,
+                "bb_window": 20,
+                "bb_dev": 2
+            }
+        },
+        {
+            "generation": 1,
+            "best_score": 47.18553268452739,
+            "best_params": {
+                "strategy_RSI": true,
+                "strategy_MA": true,
+                "strategy_BB": true,
+                "rsi_window": 19,
+                "rsi_buy": 27,
+                "rsi_sell": 84,
+                "ma_short": 20,
+                "ma_long": 200,
+                "bb_window": 20,
+                "bb_dev": 2
+            }
+        },
+        {
+            "generation": 2,
+            "best_score": 47.18553268452739,
+            "best_params": {
+                "strategy_RSI": true,
+                "strategy_MA": true,
+                "strategy_BB": true,
+                "rsi_window": 19,
+                "rsi_buy": 27,
+                "rsi_sell": 84,
+                "ma_short": 20,
+                "ma_long": 200,
+                "bb_window": 20,
+                "bb_dev": 2
+            }
+        },
+        {
+            "generation": 3,
+            "best_score": 47.18553268452739,
+            "best_params": {
+                "strategy_RSI": true,
+                "strategy_MA": true,
+                "strategy_BB": true,
+                "rsi_window": 19,
+                "rsi_buy": 27,
+                "rsi_sell": 84,
+                "ma_short": 20,
+                "ma_long": 200,
+                "bb_window": 20,
+                "bb_dev": 2
+            }
+        },
+        {
+            "generation": 4,
+            "best_score": 47.18553268452739,
+            "best_params": {
+                "strategy_RSI": true,
+                "strategy_MA": true,
+                "strategy_BB": true,
+                "rsi_window": 19,
+                "rsi_buy": 27,
+                "rsi_sell": 84,
+                "ma_short": 20,
+                "ma_long": 200,
+                "bb_window": 20,
+                "bb_dev": 2
+            }
+        },
+        {
+            "generation": 5,
+            "best_score": 47.18553268452739,
+            "best_params": {
+                "strategy_RSI": true,
+                "strategy_MA": true,
+                "strategy_BB": true,
+                "rsi_window": 19,
+                "rsi_buy": 27,
+                "rsi_sell": 84,
+                "ma_short": 20,
+                "ma_long": 200,
+                "bb_window": 20,
+                "bb_dev": 2
+            }
+        },
+        {
+            "generation": 6,
+            "best_score": 47.18553268452739,
+            "best_params": {
+                "strategy_RSI": true,
+                "strategy_MA": true,
+                "strategy_BB": true,
+                "rsi_window": 19,
+                "rsi_buy": 27,
+                "rsi_sell": 84,
+                "ma_short": 20,
+                "ma_long": 200,
+                "bb_window": 20,
+                "bb_dev": 2
+            }
+        },
+        {
+            "generation": 7,
+            "best_score": 47.18553268452739,
+            "best_params": {
+                "strategy_RSI": true,
+                "strategy_MA": true,
+                "strategy_BB": true,
+                "rsi_window": 19,
+                "rsi_buy": 27,
+                "rsi_sell": 84,
+                "ma_short": 20,
+                "ma_long": 200,
+                "bb_window": 20,
+                "bb_dev": 2
+            }
+        },
+        {
+            "generation": 8,
+            "best_score": 47.18553268452739,
+            "best_params": {
+                "strategy_RSI": true,
+                "strategy_MA": true,
+                "strategy_BB": true,
+                "rsi_window": 19,
+                "rsi_buy": 27,
+                "rsi_sell": 84,
+                "ma_short": 20,
+                "ma_long": 200,
+                "bb_window": 20,
+                "bb_dev": 2
+            }
+        },
+        {
+            "generation": 9,
+            "best_score": 47.18553268452739,
+            "best_params": {
+                "strategy_RSI": true,
+                "strategy_MA": true,
+                "strategy_BB": true,
+                "rsi_window": 19,
+                "rsi_buy": 27,
+                "rsi_sell": 84,
+                "ma_short": 20,
+                "ma_long": 200,
+                "bb_window": 20,
+                "bb_dev": 2
+            }
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "strategy_RSI": true,
+    "strategy_MA": true,
+    "strategy_BB": true,
+    "rsi_window": 19,
+    "rsi_buy": 27,
+    "rsi_sell": 84,
+    "ma_short": 20,
+    "ma_long": 200,
+    "bb_window": 20,
+    "bb_dev": 2
+}

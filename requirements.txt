@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+yfinance
+pandas
+numpy
+scikit-learn
+requests
+deep-translator
+python-dateutil
