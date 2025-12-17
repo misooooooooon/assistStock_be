@@ -23,6 +23,12 @@ app.add_middleware(
 data_loader = DataLoader()
 analyzer = Analyzer()
 optimizer = Optimizer(data_loader, analyzer)
+
+@app.on_event("startup")
+async def startup_event():
+    # Start optimization loop in background automatically
+    import asyncio
+    asyncio.create_task(optimizer.run_optimization_loop())
 predictor = Predictor()
 
 class StockRequest(BaseModel):
