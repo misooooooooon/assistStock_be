@@ -101,7 +101,7 @@ class DataLoader:
         from datetime import datetime
         from dateutil import parser
         
-        cache_file = os.path.join(self.cache_dir, f"{ticker}_news_v4.json") # Bump version
+        cache_file = os.path.join(self.cache_dir, f"{ticker}_news_v5.json") # Bump version
         sources_checked = ["Yahoo Finance"]
         
         # Check cache validity (1 hour = 3600 seconds)
@@ -183,6 +183,9 @@ class DataLoader:
             if clean_title not in seen_titles and clean_title:
                 seen_titles.add(clean_title)
                 unique_news.append(item)
+
+        # Sort by date descending (Latest first)
+        unique_news.sort(key=lambda x: x.get("published") or "", reverse=True)
 
         result = {
             "items": unique_news,

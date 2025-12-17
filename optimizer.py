@@ -17,6 +17,19 @@ class Optimizer:
         self.best_params = self._load_dna()
         self.best_score = -1000.0
 
+    async def run_optimization_loop(self):
+        import asyncio
+        print("Background Optimization Loop Started...")
+        while True:
+            try:
+                # Run heavy simulation in a separate thread to not block FastAPI
+                await asyncio.to_thread(self.run_simulation, "SPY", 5) # Run 5 generations periodically
+                print("Optimization cycle finished. Sleeping for 1 hour...")
+                await asyncio.sleep(3600) # Sleep 1 hour
+            except Exception as e:
+                print(f"Optimization loop error: {e}")
+                await asyncio.sleep(60) # Retry after 1 min on error
+
     def _load_dna(self):
         if os.path.exists(self.dna_file):
             try:
