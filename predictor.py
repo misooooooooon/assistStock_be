@@ -6,10 +6,11 @@ class Predictor:
     def __init__(self):
         self.model = LinearRegression()
 
-    def predict_next_movement(self, df: pd.DataFrame, days_ahead=7):
+    def predict_next_movement(self, df: pd.DataFrame, days_ahead=7, sentiment_score=0):
         """
         Predicts the price trend for the next 7 days.
         Returns graph-ready data and text reasoning.
+        sentiment_score: -5 to +5 range from news analysis.
         """
         if len(df) < 30:
             return {"error": "Insufficient Data"}
@@ -26,6 +27,11 @@ class Predictor:
         future_indices = np.array([last_index + i for i in range(1, days_ahead + 1)]).reshape(-1, 1)
         predictions = self.model.predict(future_indices)
         
+        # Apply Sentiment Adjustment
+        # factor: +1 score -> +0.5% boost. Max +2.5% boost at score +5.
+        sentiment_factor = 1 + (sentiment_score * 0.005) 
+        predictions = predictions * sentiment_factor
+        
         slope = self.model.coef_[0]
         r_sq = self.model.score(X, y)
 
@@ -39,9 +45,13 @@ class Predictor:
             reasoning.append(f"{strength} Downward Trend detected (Slope: {slope:.2f}).")
 
         if r_sq > 0.5:
-            reasoning.append(f"Price movement is relatively consistent (R²: {r_sq:.2f}).")
+            reasoning.append(f"Price movement is consistent (R²: {r_sq:.2f}).")
         else:
             reasoning.append(f"Price movement is volatile (R²: {r_sq:.2f}).")
+            
+        if sentiment_score != 0:
+            impact = "Positive" if sentiment_score > 0 else "Negative"
+            reasoning.append(f"News Sentiment ({sentiment_score}) adjusted target by {(sentiment_factor-1)*100:.1f}%.")
 
         # Format data for Recharts: [{day: 'Day 1', price: 100, type: 'History'}, ...]
         graph_data = []
@@ -62,9 +72,9 @@ class Predictor:
             })
 
         return {
-            "outlook": "Bullish" if slope > 0 else "Bearish",
+            "outlook": "Bullish" if predictions[-1] > y[-1] else "Bearish", # Outlook based on final adjusted price
             "current_price": y[-1],
-            "predicted_price_7d": predictions[-1], # Reverted key
+            "predicted_price_7d": predictions[-1], 
             "graph_data": graph_data,
             "reasoning": " ".join(reasoning)
         }

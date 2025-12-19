@@ -1,0 +1,2592 @@
+{
+  "updated_at": "2025-12-19T10:45:40.885060",
+  "count": 99,
+  "market": "US",
+  "recommendations": [
+    {
+      "ticker": "GS",
+      "name": "The Goldman Sachs Group, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 876.2999877929688,
+        "rsi": 66.50052979259507,
+        "fundamental": {
+          "score": 5.0,
+          "insights": [
+            "Low P/E Ratio (18.1) - Potentially Undervalued",
+            "High Profit Margin (29.1%)",
+            "Strong Revenue Growth (20.7%)"
+          ],
+          "badges": [
+            "Undervalued",
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": 18.084774,
+            "Market Cap": 269297664000,
+            "Profit Margin": 0.29073998
+          }
+        }
+      },
+      "total_score": 5.0,
+      "market": "US"
+    },
+    {
+      "ticker": "MS",
+      "name": "Morgan Stanley",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 172.9600067138672,
+        "rsi": 47.26620260848851,
+        "fundamental": {
+          "score": 5.0,
+          "insights": [
+            "Low P/E Ratio (17.7) - Potentially Undervalued",
+            "High Profit Margin (23.6%)",
+            "Strong Revenue Growth (19.1%)"
+          ],
+          "badges": [
+            "Undervalued",
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": 17.739489,
+            "Market Cap": 276102250496,
+            "Profit Margin": 0.23606001
+          }
+        }
+      },
+      "total_score": 5.0,
+      "market": "US"
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 1,
+        "details": [
+          "RSI Oversold (20.6)"
+        ],
+        "current_price": 94.0,
+        "rsi": 20.636819984678255,
+        "fundamental": {
+          "score": 3.0,
+          "insights": [
+            "High Profit Margin (24.0%)",
+            "Strong Revenue Growth (17.2%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": 39.234306,
+            "Market Cap": 397333790720,
+            "Profit Margin": 0.24047
+          }
+        }
+      },
+      "total_score": 4.0,
+      "market": "US"
+    },
+    {
+      "ticker": "UNP",
+      "name": "Union Pacific Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 234.4199981689453,
+        "rsi": 51.195536263608375,
+        "fundamental": {
+          "score": 3.5,
+          "insights": [
+            "Low P/E Ratio (19.9) - Potentially Undervalued",
+            "High Profit Margin (28.7%)"
+          ],
+          "badges": [
+            "Undervalued"
+          ],
+          "key_metrics": {
+            "P/E": 19.882952,
+            "Market Cap": 139048779776,
+            "Profit Margin": 0.2873
+          }
+        }
+      },
+      "total_score": 4.0,
+      "market": "US"
+    },
+    {
+      "ticker": "MO",
+      "name": "Altria Group, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 58.38999938964844,
+        "rsi": 49.629621257182585,
+        "fundamental": {
+          "score": 3.5,
+          "insights": [
+            "Low P/E Ratio (11.1) - Potentially Undervalued",
+            "High Profit Margin (44.0%)"
+          ],
+          "badges": [
+            "Undervalued",
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 11.14313,
+            "Market Cap": 98088828928,
+            "Profit Margin": 0.4398
+          }
+        }
+      },
+      "total_score": 4.0,
+      "market": "US"
+    },
+    {
+      "ticker": "EOG",
+      "name": "EOG Resources, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 102.61000061035156,
+        "rsi": 27.99207629396949,
+        "fundamental": {
+          "score": 3.5,
+          "insights": [
+            "Low P/E Ratio (10.2) - Potentially Undervalued",
+            "High Profit Margin (24.4%)"
+          ],
+          "badges": [
+            "Undervalued"
+          ],
+          "key_metrics": {
+            "P/E": 10.189672,
+            "Market Cap": 56024383488,
+            "Profit Margin": 0.24410999
+          }
+        }
+      },
+      "total_score": 4.0,
+      "market": "US"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 483.9800109863281,
+        "rsi": 56.12624858210848,
+        "fundamental": {
+          "score": 3.0,
+          "insights": [
+            "High Profit Margin (35.7%)",
+            "Strong Revenue Growth (18.4%)"
+          ],
+          "badges": [
+            "High Growth",
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 33.74698,
+            "Market Cap": 3529416114176,
+            "Profit Margin": 0.35707
+          }
+        }
+      },
+      "total_score": 3.5,
+      "market": "US"
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 302.4599914550781,
+        "rsi": 32.59194666776919,
+        "fundamental": {
+          "score": 3.0,
+          "insights": [
+            "High Profit Margin (32.2%)",
+            "Strong Revenue Growth (15.9%)"
+          ],
+          "badges": [
+            "High Growth",
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 30.396448,
+            "Market Cap": 3733198209024,
+            "Profit Margin": 0.32233003
+          }
+        }
+      },
+      "total_score": 3.5,
+      "market": "US"
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 313.0,
+        "rsi": 50.93689037054954,
+        "fundamental": {
+          "score": 3.5,
+          "insights": [
+            "Low P/E Ratio (15.9) - Potentially Undervalued",
+            "High Profit Margin (34.7%)"
+          ],
+          "badges": [
+            "Undervalued",
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 15.85042,
+            "Market Cap": 879976185856,
+            "Profit Margin": 0.347
+          }
+        }
+      },
+      "total_score": 3.5,
+      "market": "US"
+    },
+    {
+      "ticker": "MRK",
+      "name": "Merck & Co., Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 100.69000244140625,
+        "rsi": 47.44073138697561,
+        "fundamental": {
+          "score": 3.5,
+          "insights": [
+            "Low P/E Ratio (13.3) - Potentially Undervalued",
+            "High Profit Margin (29.6%)"
+          ],
+          "badges": [
+            "Undervalued"
+          ],
+          "key_metrics": {
+            "P/E": 13.318784,
+            "Market Cap": 251501805568,
+            "Profit Margin": 0.29632
+          }
+        }
+      },
+      "total_score": 3.5,
+      "market": "US"
+    },
+    {
+      "ticker": "ABT",
+      "name": "Abbott Laboratories",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 125.12000274658203,
+        "rsi": 49.42684373582029,
+        "fundamental": {
+          "score": 3.5,
+          "insights": [
+            "Low P/E Ratio (15.7) - Potentially Undervalued",
+            "High Profit Margin (31.9%)"
+          ],
+          "badges": [
+            "Undervalued",
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 15.718594,
+            "Market Cap": 217766232064,
+            "Profit Margin": 0.3188
+          }
+        }
+      },
+      "total_score": 3.5,
+      "market": "US"
+    },
+    {
+      "ticker": "GILD",
+      "name": "Gilead Sciences, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 121.47000122070312,
+        "rsi": 43.10733654773717,
+        "fundamental": {
+          "score": 3.5,
+          "insights": [
+            "Low P/E Ratio (18.8) - Potentially Undervalued",
+            "High Profit Margin (27.9%)"
+          ],
+          "badges": [
+            "Undervalued"
+          ],
+          "key_metrics": {
+            "P/E": 18.803406,
+            "Market Cap": 150720823296,
+            "Profit Margin": 0.27882
+          }
+        }
+      },
+      "total_score": 3.5,
+      "market": "US"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 174.13999938964844,
+        "rsi": 41.259634808872846,
+        "fundamental": {
+          "score": 3.0,
+          "insights": [
+            "High Profit Margin (53.0%)",
+            "Strong Revenue Growth (62.5%)"
+          ],
+          "badges": [
+            "High Growth",
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 43.63614,
+            "Market Cap": 4292132732928,
+            "Profit Margin": 0.53007
+          }
+        }
+      },
+      "total_score": 3.0,
+      "market": "US"
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 664.4500122070312,
+        "rsi": 62.179052579211024,
+        "fundamental": {
+          "score": 3.0,
+          "insights": [
+            "High Profit Margin (30.9%)",
+            "Strong Revenue Growth (26.2%)"
+          ],
+          "badges": [
+            "High Growth",
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 28.638212,
+            "Market Cap": 1632066863104,
+            "Profit Margin": 0.30892
+          }
+        }
+      },
+      "total_score": 3.0,
+      "market": "US"
+    },
+    {
+      "ticker": "MA",
+      "name": "Mastercard Incorporated",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 566.2100219726562,
+        "rsi": 59.72266998374745,
+        "fundamental": {
+          "score": 3.0,
+          "insights": [
+            "High Profit Margin (45.3%)",
+            "Strong Revenue Growth (16.7%)"
+          ],
+          "badges": [
+            "High Growth",
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 36.459324,
+            "Market Cap": 514500263936,
+            "Profit Margin": 0.45275003
+          }
+        }
+      },
+      "total_score": 3.0,
+      "market": "US"
+    },
+    {
+      "ticker": "BLK",
+      "name": "BlackRock, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 1064.989990234375,
+        "rsi": 61.72382958592395,
+        "fundamental": {
+          "score": 3.0,
+          "insights": [
+            "High Profit Margin (26.6%)",
+            "Strong Revenue Growth (25.2%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": 27.398766,
+            "Market Cap": 165234163712,
+            "Profit Margin": 0.26638
+          }
+        }
+      },
+      "total_score": 3.0,
+      "market": "US"
+    },
+    {
+      "ticker": "INTU",
+      "name": "Intuit Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 668.8800048828125,
+        "rsi": 59.06603459877419,
+        "fundamental": {
+          "score": 3.0,
+          "insights": [
+            "High Profit Margin (21.2%)",
+            "Strong Revenue Growth (41.0%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": 46.00275,
+            "Market Cap": 186216185856,
+            "Profit Margin": 0.21191
+          }
+        }
+      },
+      "total_score": 3.0,
+      "market": "US"
+    },
+    {
+      "ticker": "REGN",
+      "name": "Regeneron Pharmaceuticals, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 748.7100219726562,
+        "rsi": 52.790495911611416,
+        "fundamental": {
+          "score": 3.5,
+          "insights": [
+            "Low P/E Ratio (18.0) - Potentially Undervalued",
+            "High Profit Margin (32.1%)"
+          ],
+          "badges": [
+            "Undervalued",
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 17.958984,
+            "Market Cap": 79353856000,
+            "Profit Margin": 0.32131
+          }
+        }
+      },
+      "total_score": 3.0,
+      "market": "US"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 1,
+        "details": [
+          "RSI Oversold (15.6)"
+        ],
+        "current_price": 272.19000244140625,
+        "rsi": 15.553051491334315,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (26.9%)"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 36.743965,
+            "Market Cap": 4067898949632,
+            "Profit Margin": 0.26915002
+          }
+        }
+      },
+      "total_score": 2.5,
+      "market": "US"
+    },
+    {
+      "ticker": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 116.54000091552734,
+        "rsi": 45.44797046587252,
+        "fundamental": {
+          "score": 2,
+          "insights": [
+            "Low P/E Ratio (16.9) - Potentially Undervalued"
+          ],
+          "badges": [
+            "Undervalued"
+          ],
+          "key_metrics": {
+            "P/E": 16.938953,
+            "Market Cap": 496838836224,
+            "Profit Margin": 0.091809995
+          }
+        }
+      },
+      "total_score": 2.5,
+      "market": "US"
+    },
+    {
+      "ticker": "PFE",
+      "name": "Pfizer Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 25.040000915527344,
+        "rsi": 42.7397457845,
+        "fundamental": {
+          "score": 2,
+          "insights": [
+            "Low P/E Ratio (14.6) - Potentially Undervalued"
+          ],
+          "badges": [
+            "Undervalued"
+          ],
+          "key_metrics": {
+            "P/E": 14.55814,
+            "Market Cap": 142370127872,
+            "Profit Margin": 0.15654999
+          }
+        }
+      },
+      "total_score": 2.5,
+      "market": "US"
+    },
+    {
+      "ticker": "ISRG",
+      "name": "Intuitive Surgical, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 561.8900146484375,
+        "rsi": 44.434956273818756,
+        "fundamental": {
+          "score": 2.0,
+          "insights": [
+            "High P/E Ratio (74.2) - Premium Priced",
+            "High Profit Margin (28.6%)",
+            "Strong Revenue Growth (22.9%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": 74.22589,
+            "Market Cap": 201424371712,
+            "Profit Margin": 0.28577998
+          }
+        }
+      },
+      "total_score": 2.5,
+      "market": "US"
+    },
+    {
+      "ticker": "BRK-B",
+      "name": "Berkshire Hathaway Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 503.3900146484375,
+        "rsi": 49.75689790277188,
+        "fundamental": {
+          "score": 2,
+          "insights": [
+            "Low P/E Ratio (16.1) - Potentially Undervalued"
+          ],
+          "badges": [
+            "Undervalued"
+          ],
+          "key_metrics": {
+            "P/E": 16.103327,
+            "Market Cap": 1085980803072,
+            "Profit Margin": 0.18129
+          }
+        }
+      },
+      "total_score": 2,
+      "market": "US"
+    },
+    {
+      "ticker": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 328.1400146484375,
+        "rsi": 39.84167001075886,
+        "fundamental": {
+          "score": 2,
+          "insights": [
+            "Low P/E Ratio (17.1) - Potentially Undervalued"
+          ],
+          "badges": [
+            "Undervalued"
+          ],
+          "key_metrics": {
+            "P/E": 17.090626,
+            "Market Cap": 297241903104,
+            "Profit Margin": 0.04042
+          }
+        }
+      },
+      "total_score": 2,
+      "market": "US"
+    },
+    {
+      "ticker": "LLY",
+      "name": "Eli Lilly and Company",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 1056.8800048828125,
+        "rsi": 56.99039464295516,
+        "fundamental": {
+          "score": 2.0,
+          "insights": [
+            "High P/E Ratio (51.8) - Premium Priced",
+            "High Profit Margin (31.0%)",
+            "Strong Revenue Growth (53.9%)"
+          ],
+          "badges": [
+            "High Growth",
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 51.7571,
+            "Market Cap": 947447201792,
+            "Profit Margin": 0.30986
+          }
+        }
+      },
+      "total_score": 2.0,
+      "market": "US"
+    },
+    {
+      "ticker": "NKE",
+      "name": "NIKE, Inc.",
+      "analysis": {
+        "signal": "Buy",
+        "score": 1.5,
+        "details": [
+          "Volume Surge (High Interest)"
+        ],
+        "current_price": 65.62999725341797,
+        "rsi": 49.89876369701696,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 34.758972,
+            "Market Cap": 100192485376,
+            "Profit Margin": 0.062340003
+          }
+        }
+      },
+      "total_score": 2.0,
+      "market": "US"
+    },
+    {
+      "ticker": "BMY",
+      "name": "Bristol-Myers Squibb Company",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 53.33000183105469,
+        "rsi": 66.21069451518365,
+        "fundamental": {
+          "score": 2,
+          "insights": [
+            "Low P/E Ratio (18.0) - Potentially Undervalued"
+          ],
+          "badges": [
+            "Undervalued"
+          ],
+          "key_metrics": {
+            "P/E": 17.95623,
+            "Market Cap": 108566716416,
+            "Profit Margin": 0.12572
+          }
+        }
+      },
+      "total_score": 2,
+      "market": "US"
+    },
+    {
+      "ticker": "SCHW",
+      "name": "The Charles Schwab Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": -1,
+        "details": [
+          "RSI Overbought (72.7)"
+        ],
+        "current_price": 97.2300033569336,
+        "rsi": 72.7112825038382,
+        "fundamental": {
+          "score": 3.0,
+          "insights": [
+            "High Profit Margin (35.9%)",
+            "Strong Revenue Growth (26.6%)"
+          ],
+          "badges": [
+            "High Growth",
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 22.770493,
+            "Market Cap": 176493789184,
+            "Profit Margin": 0.35930002
+          }
+        }
+      },
+      "total_score": 2.0,
+      "market": "US"
+    },
+    {
+      "ticker": "ADI",
+      "name": "Analog Devices, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 274.9200134277344,
+        "rsi": 46.624506555061195,
+        "fundamental": {
+          "score": 2.0,
+          "insights": [
+            "High P/E Ratio (60.4) - Premium Priced",
+            "High Profit Margin (20.6%)",
+            "Strong Revenue Growth (25.9%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": 60.421978,
+            "Market Cap": 134615711744,
+            "Profit Margin": 0.20575
+          }
+        }
+      },
+      "total_score": 2.0,
+      "market": "US"
+    },
+    {
+      "ticker": "CI",
+      "name": "The Cigna Group",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 274.0,
+        "rsi": 60.70987747617032,
+        "fundamental": {
+          "score": 2,
+          "insights": [
+            "Low P/E Ratio (12.1) - Potentially Undervalued"
+          ],
+          "badges": [
+            "Undervalued"
+          ],
+          "key_metrics": {
+            "P/E": 12.129261,
+            "Market Cap": 73192472576,
+            "Profit Margin": 0.02293
+          }
+        }
+      },
+      "total_score": 2,
+      "market": "US"
+    },
+    {
+      "ticker": "TMUS",
+      "name": "T-Mobile US, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 200.27000427246094,
+        "rsi": 31.031331097438454,
+        "fundamental": {
+          "score": 2,
+          "insights": [
+            "Low P/E Ratio (19.3) - Potentially Undervalued"
+          ],
+          "badges": [
+            "Undervalued"
+          ],
+          "key_metrics": {
+            "P/E": 19.275265,
+            "Market Cap": 225387675648,
+            "Profit Margin": 0.13826999
+          }
+        }
+      },
+      "total_score": 2,
+      "market": "US"
+    },
+    {
+      "ticker": "PYPL",
+      "name": "PayPal Holdings, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 59.439998626708984,
+        "rsi": 36.91857725042278,
+        "fundamental": {
+          "score": 2,
+          "insights": [
+            "Low P/E Ratio (11.9) - Potentially Undervalued"
+          ],
+          "badges": [
+            "Undervalued"
+          ],
+          "key_metrics": {
+            "P/E": 11.935742,
+            "Market Cap": 56787693568,
+            "Profit Margin": 0.14963001
+          }
+        }
+      },
+      "total_score": 2,
+      "market": "US"
+    },
+    {
+      "ticker": "PGR",
+      "name": "The Progressive Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 224.86000061035156,
+        "rsi": 46.80793708711741,
+        "fundamental": {
+          "score": 2,
+          "insights": [
+            "Low P/E Ratio (12.3) - Potentially Undervalued"
+          ],
+          "badges": [
+            "Undervalued"
+          ],
+          "key_metrics": {
+            "P/E": 12.334614,
+            "Market Cap": 131812933632,
+            "Profit Margin": 0.12579
+          }
+        }
+      },
+      "total_score": 2,
+      "market": "US"
+    },
+    {
+      "ticker": "SLB",
+      "name": "SLB N.V.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 38.130001068115234,
+        "rsi": 53.98353390211517,
+        "fundamental": {
+          "score": 2,
+          "insights": [
+            "Low P/E Ratio (14.8) - Potentially Undervalued"
+          ],
+          "badges": [
+            "Undervalued"
+          ],
+          "key_metrics": {
+            "P/E": 14.836576,
+            "Market Cap": 56963309568,
+            "Profit Margin": 0.10341
+          }
+        }
+      },
+      "total_score": 2,
+      "market": "US"
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 208.30999755859375,
+        "rsi": 55.41817705642815,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (27.3%)"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 20.12657,
+            "Market Cap": 501880258560,
+            "Profit Margin": 0.27259
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "US"
+    },
+    {
+      "ticker": "KO",
+      "name": "The Coca-Cola Company",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 70.36000061035156,
+        "rsi": 45.91653904841555,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (27.3%)"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 23.5,
+            "Market Cap": 305431281664,
+            "Profit Margin": 0.2734
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "US"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 329.8800048828125,
+        "rsi": 29.892996174840647,
+        "fundamental": {
+          "score": 2.0,
+          "insights": [
+            "High P/E Ratio (70.9) - Premium Priced",
+            "High Profit Margin (36.2%)",
+            "Strong Revenue Growth (16.4%)"
+          ],
+          "badges": [
+            "High Growth",
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 70.94154,
+            "Market Cap": 1604706762752,
+            "Profit Margin": 0.36198002
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "US"
+    },
+    {
+      "ticker": "LIN",
+      "name": "Linde plc",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 418.989990234375,
+        "rsi": 58.421768295262986,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (21.2%)"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 28.026087,
+            "Market Cap": 196468408320,
+            "Profit Margin": 0.21170999
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "US"
+    },
+    {
+      "ticker": "TXN",
+      "name": "Texas Instruments Incorporated",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 176.19000244140625,
+        "rsi": 33.08704523530767,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (29.2%)"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 32.41712,
+            "Market Cap": 161799143424,
+            "Profit Margin": 0.29208001
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "US"
+    },
+    {
+      "ticker": "PM",
+      "name": "Philip Morris International Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 157.30999755859375,
+        "rsi": 65.45250451995052,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (21.6%)"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 22.440798,
+            "Market Cap": 244874838016,
+            "Profit Margin": 0.21574
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "US"
+    },
+    {
+      "ticker": "NEE",
+      "name": "NextEra Energy, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 80.8499984741211,
+        "rsi": 28.098282325304268,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (24.7%)"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 25.666666,
+            "Market Cap": 168378990592,
+            "Profit Margin": 0.24729
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "US"
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 180.02999877929688,
+        "rsi": 29.886720172167784,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (25.3%)"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 34.759396,
+            "Market Cap": 531299205120,
+            "Profit Margin": 0.25280002
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "US"
+    },
+    {
+      "ticker": "GE",
+      "name": "GE Aerospace",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 301.69000244140625,
+        "rsi": 62.26310889137626,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "Strong Revenue Growth (23.8%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": 39.079018,
+            "Market Cap": 319923945472,
+            "Profit Margin": 0.18344
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "US"
+    },
+    {
+      "ticker": "SPGI",
+      "name": "S&P Global Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 506.7099914550781,
+        "rsi": 58.81289284029488,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (28.1%)"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 36.90532,
+            "Market Cap": 154698563584,
+            "Profit Margin": 0.28091
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "US"
+    },
+    {
+      "ticker": "PLD",
+      "name": "Prologis, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 127.66000366210938,
+        "rsi": 48.580335647799615,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (35.2%)"
+          ],
+          "badges": [
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 37.0029,
+            "Market Cap": 118579167232,
+            "Profit Margin": 0.35243
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "US"
+    },
+    {
+      "ticker": "AMT",
+      "name": "American Tower Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 174.2899932861328,
+        "rsi": 46.31424949661561,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (28.1%)"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 27.84185,
+            "Market Cap": 81611505664,
+            "Profit Margin": 0.28106
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "US"
+    },
+    {
+      "ticker": "VRTX",
+      "name": "Vertex Pharmaceuticals Incorporated",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 447.3800048828125,
+        "rsi": 58.55889292339252,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (31.3%)"
+          ],
+          "badges": [
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 31.505634,
+            "Market Cap": 114704056320,
+            "Profit Margin": 0.31349
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "US"
+    },
+    {
+      "ticker": "ZTS",
+      "name": "Zoetis Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 122.76000213623047,
+        "rsi": 50.571951939868796,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (28.2%)"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 20.666666,
+            "Market Cap": 54405206016,
+            "Profit Margin": 0.28211
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "US"
+    },
+    {
+      "ticker": "KLAC",
+      "name": "KLA Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 1222.3900146484375,
+        "rsi": 58.64286020079733,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (33.8%)"
+          ],
+          "badges": [
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 38.343475,
+            "Market Cap": 160969850880,
+            "Profit Margin": 0.33828998
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "US"
+    },
+    {
+      "ticker": "ICE",
+      "name": "Intercontinental Exchange, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 160.07000732421875,
+        "rsi": 62.4851942575424,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (32.4%)"
+          ],
+          "badges": [
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 29.15665,
+            "Market Cap": 91627773952,
+            "Profit Margin": 0.32431
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "US"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 1,
+        "details": [
+          "RSI Oversold (14.5)"
+        ],
+        "current_price": 857.5900268554688,
+        "rsi": 14.533292183521908,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 46.1179,
+            "Market Cap": 382018945024,
+            "Profit Margin": 0.02961
+          }
+        }
+      },
+      "total_score": 1,
+      "market": "US"
+    },
+    {
+      "ticker": "DIS",
+      "name": "The Walt Disney Company",
+      "analysis": {
+        "signal": "Neutral",
+        "score": -1,
+        "details": [
+          "RSI Overbought (79.4)"
+        ],
+        "current_price": 111.87000274658203,
+        "rsi": 79.41820711196856,
+        "fundamental": {
+          "score": 2,
+          "insights": [
+            "Low P/E Ratio (16.1) - Potentially Undervalued"
+          ],
+          "badges": [
+            "Undervalued"
+          ],
+          "key_metrics": {
+            "P/E": 16.129927,
+            "Market Cap": 198653706240,
+            "Profit Margin": 0.13136
+          }
+        }
+      },
+      "total_score": 1,
+      "market": "US"
+    },
+    {
+      "ticker": "C",
+      "name": "Citigroup Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": -1,
+        "details": [
+          "RSI Overbought (83.4)"
+        ],
+        "current_price": 112.83000183105469,
+        "rsi": 83.38794807014033,
+        "fundamental": {
+          "score": 2,
+          "insights": [
+            "Low P/E Ratio (15.8) - Potentially Undervalued"
+          ],
+          "badges": [
+            "Undervalued"
+          ],
+          "key_metrics": {
+            "P/E": 15.84691,
+            "Market Cap": 207708520448,
+            "Profit Margin": 0.19488001
+          }
+        }
+      },
+      "total_score": 1,
+      "market": "US"
+    },
+    {
+      "ticker": "CB",
+      "name": "Chubb Limited",
+      "analysis": {
+        "signal": "Neutral",
+        "score": -1,
+        "details": [
+          "RSI Overbought (73.9)"
+        ],
+        "current_price": 310.9599914550781,
+        "rsi": 73.9392970923254,
+        "fundamental": {
+          "score": 2,
+          "insights": [
+            "Low P/E Ratio (13.0) - Potentially Undervalued"
+          ],
+          "badges": [
+            "Undervalued"
+          ],
+          "key_metrics": {
+            "P/E": 12.989139,
+            "Market Cap": 123976736768,
+            "Profit Margin": 0.16442
+          }
+        }
+      },
+      "total_score": 1,
+      "market": "US"
+    },
+    {
+      "ticker": "V",
+      "name": "Visa Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": -1,
+        "details": [
+          "RSI Overbought (70.9)"
+        ],
+        "current_price": 346.010009765625,
+        "rsi": 70.87584413001389,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (50.1%)"
+          ],
+          "badges": [
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 34.042202,
+            "Market Cap": 669462102016,
+            "Profit Margin": 0.50145
+          }
+        }
+      },
+      "total_score": 0.5,
+      "market": "US"
+    },
+    {
+      "ticker": "MCD",
+      "name": "McDonald's Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": -1,
+        "details": [
+          "RSI Overbought (73.5)"
+        ],
+        "current_price": 319.6499938964844,
+        "rsi": 73.46692737698231,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (32.0%)"
+          ],
+          "badges": [
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": 27.25064,
+            "Market Cap": 228103651328,
+            "Profit Margin": 0.3204
+          }
+        }
+      },
+      "total_score": 0.5,
+      "market": "US"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 201.05999755859375,
+        "rsi": 27.60019474389854,
+        "fundamental": {
+          "score": 0.5,
+          "insights": [
+            "High P/E Ratio (108.1) - Premium Priced",
+            "Strong Revenue Growth (35.6%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": 108.114586,
+            "Market Cap": 337948868608,
+            "Profit Margin": 0.10323
+          }
+        }
+      },
+      "total_score": 0.5,
+      "market": "US"
+    },
+    {
+      "ticker": "BSX",
+      "name": "Boston Scientific Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 96.11000061035156,
+        "rsi": 39.99999999999999,
+        "fundamental": {
+          "score": 0.5,
+          "insights": [
+            "High P/E Ratio (51.4) - Premium Priced",
+            "Strong Revenue Growth (20.3%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": 51.39572,
+            "Market Cap": 142477492224,
+            "Profit Margin": 0.1443
+          }
+        }
+      },
+      "total_score": 0.5,
+      "market": "US"
+    },
+    {
+      "ticker": "BSX",
+      "name": "Boston Scientific Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 96.11000061035156,
+        "rsi": 39.99999999999999,
+        "fundamental": {
+          "score": 0.5,
+          "insights": [
+            "High P/E Ratio (51.4) - Premium Priced",
+            "Strong Revenue Growth (20.3%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": 51.39572,
+            "Market Cap": 142477492224,
+            "Profit Margin": 0.1443
+          }
+        }
+      },
+      "total_score": 0.5,
+      "market": "US"
+    },
+    {
+      "ticker": "SNPS",
+      "name": "Synopsys, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 458.1300048828125,
+        "rsi": 43.91387492221976,
+        "fundamental": {
+          "score": 0.5,
+          "insights": [
+            "High P/E Ratio (56.8) - Premium Priced",
+            "Strong Revenue Growth (37.8%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": 56.839947,
+            "Market Cap": 87306010624,
+            "Profit Margin": 0.18886
+          }
+        }
+      },
+      "total_score": 0.5,
+      "market": "US"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 226.75999450683594,
+        "rsi": 39.69183509085586,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 31.432203,
+            "Market Cap": 2379000578048,
+            "Profit Margin": 0.11063
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "PG",
+      "name": "The Procter & Gamble Company",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 145.52000427246094,
+        "rsi": 47.04420727085291,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 21.274855,
+            "Market Cap": 340587446272,
+            "Profit Margin": 0.19739
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "HD",
+      "name": "The Home Depot, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 354.989990234375,
+        "rsi": 49.30180672459512,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 24.21487,
+            "Market Cap": 353396621312,
+            "Profit Margin": 0.087740004
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "CVX",
+      "name": "Chevron Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 147.69000244140625,
+        "rsi": 38.26716292939457,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 20.74298,
+            "Market Cap": 297569124352,
+            "Profit Margin": 0.06767
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "PEP",
+      "name": "PepsiCo, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 149.3699951171875,
+        "rsi": 60.590335847438865,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 28.749048,
+            "Market Cap": 207031861248,
+            "Profit Margin": 0.078200005
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "TMO",
+      "name": "Thermo Fisher Scientific Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 562.3900146484375,
+        "rsi": 34.64285676296359,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 32.45182,
+            "Market Cap": 211294470144,
+            "Profit Margin": 0.15022
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 76.94999694824219,
+        "rsi": 45.34881451502726,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 30.212357,
+            "Market Cap": 309173157888,
+            "Profit Margin": 0.17902
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "ACN",
+      "name": "Accenture plc",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 269.9599914550781,
+        "rsi": 61.71997772393685,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 22.21893,
+            "Market Cap": 178268864512,
+            "Profit Margin": 0.11021
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "DHR",
+      "name": "Danaher Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 224.35000610351562,
+        "rsi": 43.202115131945895,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 46.257732,
+            "Market Cap": 160646184960,
+            "Profit Margin": 0.14435
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "WMT",
+      "name": "Walmart Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 114.83000183105469,
+        "rsi": 52.7428863078819,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 40.150352,
+            "Market Cap": 915522519040,
+            "Profit Margin": 0.03259
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 174.19000244140625,
+        "rsi": 50.02303941604402,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 35.780437,
+            "Market Cap": 193421541376,
+            "Profit Margin": 0.12512
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 565.8300170898438,
+        "rsi": 39.25461431545779,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 30.25962,
+            "Market Cap": 276290142208,
+            "Profit Margin": 0.14339
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "IBM",
+      "name": "International Business Machines Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 300.45001220703125,
+        "rsi": 45.20975591353227,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 36.832935,
+            "Market Cap": 288515391488,
+            "Profit Margin": 0.120900005
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "HON",
+      "name": "Honeywell International Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 198.0800018310547,
+        "rsi": 63.94433362164697,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 20.806112,
+            "Market Cap": 133055569920,
+            "Profit Margin": 0.1507
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "AMGN",
+      "name": "Amgen Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 324.4200134277344,
+        "rsi": 27.554495246221833,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 25.159319,
+            "Market Cap": 175173140480,
+            "Profit Margin": 0.19474001
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 1,
+        "details": [
+          "RSI Oversold (15.1)"
+        ],
+        "current_price": 36.279998779296875,
+        "rsi": 15.111933991487376,
+        "fundamental": {
+          "score": -1,
+          "insights": [
+            "High P/E Ratio (625.2) - Premium Priced"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 625.1666,
+            "Market Cap": 178922684416,
+            "Profit Margin": 0.0037099998
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "LOW",
+      "name": "Lowe's Companies, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 247.7100067138672,
+        "rsi": 51.8680327741414,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 20.505795,
+            "Market Cap": 138953293824,
+            "Profit Margin": 0.08045
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "DE",
+      "name": "Deere & Company",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 475.04998779296875,
+        "rsi": 44.309956550064896,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 26.350431,
+            "Market Cap": 131923460096,
+            "Profit Margin": 0.110039994
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "ADP",
+      "name": "Automatic Data Processing, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 260.9700012207031,
+        "rsi": 54.375768672891425,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 25.736685,
+            "Market Cap": 105716211712,
+            "Profit Margin": 0.19788
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "MDLZ",
+      "name": "Mondelez International, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 54.779998779296875,
+        "rsi": 35.42161697590301,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 20.516853,
+            "Market Cap": 70882328576,
+            "Profit Margin": 0.0938
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "AXP",
+      "name": "American Express Company",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 375.5199890136719,
+        "rsi": 58.41874746643174,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 25.25353,
+            "Market Cap": 261317689344,
+            "Profit Margin": 0.16143999
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "MMC",
+      "name": "Marsh & McLennan Companies, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 185.72999572753906,
+        "rsi": 60.403828222962915,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 22.323318,
+            "Market Cap": 91309326336,
+            "Profit Margin": 0.15601
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "SO",
+      "name": "The Southern Company",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 87.22000122070312,
+        "rsi": 45.36584321975156,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 21.696518,
+            "Market Cap": 96038371328,
+            "Profit Margin": 0.15422
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "BDX",
+      "name": "Becton, Dickinson and Company",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 194.6999969482422,
+        "rsi": 54.78908484990428,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 33.453606,
+            "Market Cap": 55806365696,
+            "Profit Margin": 0.07683
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "AON",
+      "name": "Aon plc",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 353.0199890136719,
+        "rsi": 60.35650476113991,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 28.2416,
+            "Market Cap": 76120498176,
+            "Profit Margin": 0.15962
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "CL",
+      "name": "Colgate-Palmolive Company",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 77.7300033569336,
+        "rsi": 47.78930838148651,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 21.773111,
+            "Market Cap": 62823006208,
+            "Profit Margin": 0.1447
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "ITW",
+      "name": "Illinois Tool Works Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 251.17999267578125,
+        "rsi": 54.878035813023686,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 24.386406,
+            "Market Cap": 73218965504,
+            "Profit Margin": 0.19052
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "US"
+    },
+    {
+      "ticker": "BA",
+      "name": "The Boeing Company",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 208.27000427246094,
+        "rsi": 62.494559944421596,
+        "fundamental": {
+          "score": -0.5,
+          "insights": [
+            "Negative Profit Margin - Unprofitable",
+            "Strong Revenue Growth (30.4%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 163090251776,
+            "Profit Margin": -0.12197
+          }
+        }
+      },
+      "total_score": -0.5,
+      "market": "US"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 483.3699951171875,
+        "rsi": 65.03324293872488,
+        "fundamental": {
+          "score": -1,
+          "insights": [
+            "High P/E Ratio (323.3) - Premium Priced"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 323.34012,
+            "Market Cap": 1580795035648,
+            "Profit Margin": 0.05314
+          }
+        }
+      },
+      "total_score": -1,
+      "market": "US"
+    },
+    {
+      "ticker": "ABBV",
+      "name": "AbbVie Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 222.82000732421875,
+        "rsi": 32.6147718862953,
+        "fundamental": {
+          "score": -1,
+          "insights": [
+            "High P/E Ratio (168.8) - Premium Priced"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 168.80302,
+            "Market Cap": 393808642048,
+            "Profit Margin": 0.04004
+          }
+        }
+      },
+      "total_score": -1,
+      "market": "US"
+    },
+    {
+      "ticker": "RTX",
+      "name": "RTX Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": -1,
+        "details": [
+          "RSI Overbought (74.5)"
+        ],
+        "current_price": 178.2899932861328,
+        "rsi": 74.50199929785207,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 36.609856,
+            "Market Cap": 239046230016,
+            "Profit Margin": 0.07666
+          }
+        }
+      },
+      "total_score": -1,
+      "market": "US"
+    },
+    {
+      "ticker": "SBUX",
+      "name": "Starbucks Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 89.41999816894531,
+        "rsi": 58.98831307932904,
+        "fundamental": {
+          "score": -1,
+          "insights": [
+            "High P/E Ratio (52.4) - Premium Priced"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 52.39264,
+            "Market Cap": 97108344832,
+            "Profit Margin": 0.04992
+          }
+        }
+      },
+      "total_score": -1,
+      "market": "US"
+    },
+    {
+      "ticker": "BKNG",
+      "name": "Booking Holdings Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": -1,
+        "details": [
+          "RSI Overbought (74.8)"
+        ],
+        "current_price": 5345.47021484375,
+        "rsi": 74.80723111494376,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 34.75146,
+            "Market Cap": 173246087168,
+            "Profit Margin": 0.19371
+          }
+        }
+      },
+      "total_score": -1,
+      "market": "US"
+    },
+    {
+      "ticker": "TJX",
+      "name": "The TJX Companies, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": -1,
+        "details": [
+          "RSI Overbought (74.5)"
+        ],
+        "current_price": 154.8800048828125,
+        "rsi": 74.49589998138802,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 34.189846,
+            "Market Cap": 172371951616,
+            "Profit Margin": 0.086789995
+          }
+        }
+      },
+      "total_score": -1,
+      "market": "US"
+    },
+    {
+      "ticker": "CVS",
+      "name": "CVS Health Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 77.79000091552734,
+        "rsi": 61.974235604532055,
+        "fundamental": {
+          "score": -1,
+          "insights": [
+            "High P/E Ratio (204.7) - Premium Priced"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 204.71053,
+            "Market Cap": 98749153280,
+            "Profit Margin": 0.0011999999
+          }
+        }
+      },
+      "total_score": -1,
+      "market": "US"
+    },
+    {
+      "ticker": "LMT",
+      "name": "Lockheed Martin Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": -1,
+        "details": [
+          "RSI Overbought (72.5)"
+        ],
+        "current_price": 470.1400146484375,
+        "rsi": 72.48556442792798,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 26.191643,
+            "Market Cap": 109761265664,
+            "Profit Margin": 0.05726
+          }
+        }
+      },
+      "total_score": -1,
+      "market": "US"
+    },
+    {
+      "ticker": "EQIX",
+      "name": "Equinix, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 744.0800170898438,
+        "rsi": 56.868235476454934,
+        "fundamental": {
+          "score": -1,
+          "insights": [
+            "High P/E Ratio (68.6) - Premium Priced"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": 68.64207,
+            "Market Cap": 73058304000,
+            "Profit Margin": 0.118
+          }
+        }
+      },
+      "total_score": -1,
+      "market": "US"
+    },
+    {
+      "ticker": "EL",
+      "name": "The Estée Lauder Companies Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 107.94000244140625,
+        "rsi": 66.09775687503773,
+        "fundamental": {
+          "score": -2,
+          "insights": [
+            "Negative Profit Margin - Unprofitable"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 38897287168,
+            "Profit Margin": -0.064380005
+          }
+        }
+      },
+      "total_score": -2,
+      "market": "US"
+    },
+    {
+      "ticker": "APD",
+      "name": "Air Products and Chemicals, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 243.75,
+        "rsi": 35.52997703732552,
+        "fundamental": {
+          "score": -2,
+          "insights": [
+            "Negative Profit Margin - Unprofitable"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 54256742400,
+            "Profit Margin": -0.03277
+          }
+        }
+      },
+      "total_score": -2,
+      "market": "US"
+    }
+  ]
+}

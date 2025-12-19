@@ -1,0 +1,1212 @@
+{
+  "updated_at": "2025-12-19T10:40:06.461594",
+  "count": 48,
+  "market": "KR",
+  "recommendations": [
+    {
+      "ticker": "000660.KS",
+      "name": "SK hynix Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 559000.0,
+        "rsi": 55.151515151515156,
+        "fundamental": {
+          "score": 3.0,
+          "insights": [
+            "High Profit Margin (42.5%)",
+            "Strong Revenue Growth (39.1%)"
+          ],
+          "badges": [
+            "High Growth",
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 368012662145024,
+            "Profit Margin": 0.42456
+          }
+        }
+      },
+      "total_score": 3.0,
+      "market": "KR"
+    },
+    {
+      "ticker": "207940.KS",
+      "name": "Samsung Biologics Co.,Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 1715000.0,
+        "rsi": 56.09756097560975,
+        "fundamental": {
+          "score": 3.0,
+          "insights": [
+            "High Profit Margin (29.0%)",
+            "Strong Revenue Growth (39.9%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 79388980805632,
+            "Profit Margin": 0.28991
+          }
+        }
+      },
+      "total_score": 3.0,
+      "market": "KR"
+    },
+    {
+      "ticker": "326030.KS",
+      "name": "SK Biopharmaceuticals Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 129400.0,
+        "rsi": 28.834355828220865,
+        "fundamental": {
+          "score": 3.0,
+          "insights": [
+            "High Profit Margin (47.4%)",
+            "Strong Revenue Growth (40.4%)"
+          ],
+          "badges": [
+            "High Growth",
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 10133734162432,
+            "Profit Margin": 0.47449002
+          }
+        }
+      },
+      "total_score": 3.0,
+      "market": "KR"
+    },
+    {
+      "ticker": "036570.KS",
+      "name": "NCSOFT Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 1,
+        "details": [
+          "RSI Oversold (19.9)"
+        ],
+        "current_price": 195400.0,
+        "rsi": 19.93865030674847,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (22.6%)"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 3799163863040,
+            "Profit Margin": 0.2259
+          }
+        }
+      },
+      "total_score": 2.5,
+      "market": "KR"
+    },
+    {
+      "ticker": "035900.KQ",
+      "name": "JYP Entertainment Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": -1,
+        "details": [
+          "RSI Overbought (69.8)"
+        ],
+        "current_price": 71100.0,
+        "rsi": 69.76744186046511,
+        "fundamental": {
+          "score": 3.0,
+          "insights": [
+            "High Profit Margin (20.1%)",
+            "Strong Revenue Growth (36.5%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 2355760463872,
+            "Profit Margin": 0.20143999
+          }
+        }
+      },
+      "total_score": 2.0,
+      "market": "KR"
+    },
+    {
+      "ticker": "041510.KQ",
+      "name": "SM Entertainment Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": -1,
+        "details": [
+          "RSI Overbought (83.0)"
+        ],
+        "current_price": 120850.0,
+        "rsi": 82.97872340425532,
+        "fundamental": {
+          "score": 3.0,
+          "insights": [
+            "High Profit Margin (27.4%)",
+            "Strong Revenue Growth (32.8%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 2766823227392,
+            "Profit Margin": 0.27443
+          }
+        }
+      },
+      "total_score": 2.0,
+      "market": "KR"
+    },
+    {
+      "ticker": "068270.KS",
+      "name": "Celltrion, Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 181900.0,
+        "rsi": 47.552447552447546,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "Strong Revenue Growth (16.7%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 40582823018496,
+            "Profit Margin": 0.18937999
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "KR"
+    },
+    {
+      "ticker": "035420.KS",
+      "name": "NAVER Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 234250.0,
+        "rsi": 26.605504587155963,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "Strong Revenue Growth (15.6%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 34680476794880,
+            "Profit Margin": 0.1871
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "KR"
+    },
+    {
+      "ticker": "105560.KS",
+      "name": "KB Financial Group Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 124000.0,
+        "rsi": 31.538461538461533,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (39.0%)"
+          ],
+          "badges": [
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 44690581749760,
+            "Profit Margin": 0.38990003
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "KR"
+    },
+    {
+      "ticker": "055550.KS",
+      "name": "Shinhan Financial Group Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 77000.0,
+        "rsi": 41.05263157894738,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (32.3%)"
+          ],
+          "badges": [
+            "Cash Cow"
+          ],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 36649375367168,
+            "Profit Margin": 0.32311
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "KR"
+    },
+    {
+      "ticker": "086790.KS",
+      "name": "Hana Financial Group Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 92050.0,
+        "rsi": 36.0,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (28.6%)"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 25261493977088,
+            "Profit Margin": 0.28570998
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "KR"
+    },
+    {
+      "ticker": "010130.KS",
+      "name": "Korea Zinc Company, Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 1314000.0,
+        "rsi": 51.22324159021407,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "Strong Revenue Growth (29.7%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 23893140045824,
+            "Profit Margin": 0.02081
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "KR"
+    },
+    {
+      "ticker": "009540.KS",
+      "name": "HD Korea Shipbuilding & Offshore Engineering Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 421000.0,
+        "rsi": 51.06382978723405,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "Strong Revenue Growth (21.4%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 29770859413504,
+            "Profit Margin": 0.06998
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "KR"
+    },
+    {
+      "ticker": "011200.KS",
+      "name": "HMM Co.,Ltd",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 20300.0,
+        "rsi": 54.34782608695652,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "High Profit Margin (21.3%)"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 19147729666048,
+            "Profit Margin": 0.21274
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "KR"
+    },
+    {
+      "ticker": "003490.KS",
+      "name": "Korean Airlines Co.,Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 22500.0,
+        "rsi": 53.84615384615384,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "Strong Revenue Growth (28.9%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 8309956411392,
+            "Profit Margin": 0.04081
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "KR"
+    },
+    {
+      "ticker": "247540.KQ",
+      "name": "EcoPro BM Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 151100.0,
+        "rsi": 44.97041420118343,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "Strong Revenue Growth (19.8%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 14766924890112,
+            "Profit Margin": 0.00124
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "KR"
+    },
+    {
+      "ticker": "122870.KQ",
+      "name": "YG Entertainment Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 64900.0,
+        "rsi": 65.55555555555556,
+        "fundamental": {
+          "score": 1.5,
+          "insights": [
+            "Strong Revenue Growth (107.2%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 1203692371968,
+            "Profit Margin": 0.105579995
+          }
+        }
+      },
+      "total_score": 1.5,
+      "market": "KR"
+    },
+    {
+      "ticker": "018260.KS",
+      "name": "Samsung SDS Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 1,
+        "details": [
+          "RSI Oversold (23.9)"
+        ],
+        "current_price": 167700.0,
+        "rsi": 23.936170212765944,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 12971625414656,
+            "Profit Margin": 0.05465
+          }
+        }
+      },
+      "total_score": 1,
+      "market": "KR"
+    },
+    {
+      "ticker": "005930.KS",
+      "name": "Samsung Electronics Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 106650.0,
+        "rsi": 53.753026634382564,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 687663656992768,
+            "Profit Margin": 0.103140004
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "005380.KS",
+      "name": "Hyundai Motor Company",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 280000.0,
+        "rsi": 47.79874213836478,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 74314686660608,
+            "Profit Margin": 0.0575
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "000270.KS",
+      "name": "Kia Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 118800.0,
+        "rsi": 46.1139896373057,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 46588135211008,
+            "Profit Margin": 0.06916
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "005490.KS",
+      "name": "POSCO Holdings Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 297000.0,
+        "rsi": 43.065693430656935,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 23291198701568,
+            "Profit Margin": 0.00649
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "003550.KS",
+      "name": "LG Corp.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 81100.0,
+        "rsi": 48.717948717948715,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 13045590917120,
+            "Profit Margin": 0.094289996
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "035720.KS",
+      "name": "Kakao Corp.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 58000.0,
+        "rsi": 37.77777777777778,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 25468902309888,
+            "Profit Margin": 0.0293
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "028260.KS",
+      "name": "Samsung C&T Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 241500.0,
+        "rsi": 51.21951219512195,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 39518233165824,
+            "Profit Margin": 0.05336
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "015760.KS",
+      "name": "Korea Electric Power Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 48700.0,
+        "rsi": 41.28440366972477,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 32290793062400,
+            "Profit Margin": 0.08467
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "032830.KS",
+      "name": "Samsung Life Insurance Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 153100.0,
+        "rsi": 40.66985645933015,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 27492899356672,
+            "Profit Margin": 0.06691
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "012330.KS",
+      "name": "Hyundai Mobis Co.,Ltd",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 352000.0,
+        "rsi": 52.98013245033113,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 31430304333824,
+            "Profit Margin": 0.06903
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "000810.KS",
+      "name": "Samsung Fire & Marine Insurance Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 487500.0,
+        "rsi": 48.700410396716826,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 20723389169664,
+            "Profit Margin": 0.09252
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "032640.KS",
+      "name": "LG Uplus Corp.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 15130.0,
+        "rsi": 44.827586206896555,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 6622112382976,
+            "Profit Margin": 0.02456
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "017670.KS",
+      "name": "SK Telecom Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 53100.0,
+        "rsi": 32.25806451612904,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 11309358776320,
+            "Profit Margin": 0.03388
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "009150.KS",
+      "name": "Samsung Electro-Mechanics Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 253250.0,
+        "rsi": 35.582822085889575,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 19132340764672,
+            "Profit Margin": 0.06343
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "030200.KS",
+      "name": "KT Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 53500.0,
+        "rsi": 52.857142857142854,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 12898585804800,
+            "Profit Margin": 0.03445
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "034730.KS",
+      "name": "SK Inc.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 250500.0,
+        "rsi": 32.96703296703298,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 13657762168832,
+            "Profit Margin": 0.013789999
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "005935.KS",
+      "name": "Samsung Electronics Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 82300.0,
+        "rsi": 63.41463414634146,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 710054797901824,
+            "Profit Margin": 0.103140004
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "033780.KS",
+      "name": "KT&G Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 144400.0,
+        "rsi": 52.94117647058823,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 15217414111232,
+            "Profit Margin": 0.17805
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "088350.KS",
+      "name": "Hanwha Life Insurance Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 3175.0,
+        "rsi": 60.57692307692308,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 2385664016384,
+            "Profit Margin": 0.03159
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "251270.KS",
+      "name": "Netmarble Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 49250.0,
+        "rsi": 37.2093023255814,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 4022987390976,
+            "Profit Margin": 0.04004
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "086520.KQ",
+      "name": "Ecopro Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 93000.0,
+        "rsi": 51.36116152450091,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 12484188569600,
+            "Profit Margin": null
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "052690.KQ",
+      "name": null,
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 89200.0,
+        "rsi": 40.625,
+        "fundamental": {
+          "score": 0,
+          "insights": [],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": null,
+            "Profit Margin": null
+          }
+        }
+      },
+      "total_score": 0,
+      "market": "KR"
+    },
+    {
+      "ticker": "096770.KS",
+      "name": "SK Innovation Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 103600.0,
+        "rsi": 30.769230769230774,
+        "fundamental": {
+          "score": -0.5,
+          "insights": [
+            "Negative Profit Margin - Unprofitable",
+            "Strong Revenue Growth (16.3%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 17312738443264,
+            "Profit Margin": -0.02621
+          }
+        }
+      },
+      "total_score": -0.5,
+      "market": "KR"
+    },
+    {
+      "ticker": "028300.KQ",
+      "name": "HLB Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 45700.0,
+        "rsi": 27.58620689655173,
+        "fundamental": {
+          "score": -0.5,
+          "insights": [
+            "Negative Profit Margin - Unprofitable",
+            "Strong Revenue Growth (30.4%)"
+          ],
+          "badges": [
+            "High Growth"
+          ],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 5995750227968,
+            "Profit Margin": -2.7263699
+          }
+        }
+      },
+      "total_score": -0.5,
+      "market": "KR"
+    },
+    {
+      "ticker": "293490.KQ",
+      "name": "Kakao Games Corp.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 1,
+        "details": [
+          "RSI Oversold (13.4)"
+        ],
+        "current_price": 15420.0,
+        "rsi": 13.372093023255829,
+        "fundamental": {
+          "score": -2,
+          "insights": [
+            "Negative Profit Margin - Unprofitable"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 1271192748032,
+            "Profit Margin": -0.22334999
+          }
+        }
+      },
+      "total_score": -1,
+      "market": "KR"
+    },
+    {
+      "ticker": "373220.KS",
+      "name": "LG Energy Solution, Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 368500.0,
+        "rsi": 34.45692883895131,
+        "fundamental": {
+          "score": -2,
+          "insights": [
+            "Negative Profit Margin - Unprofitable"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 97695003836416,
+            "Profit Margin": -0.036510002
+          }
+        }
+      },
+      "total_score": -2,
+      "market": "KR"
+    },
+    {
+      "ticker": "051910.KS",
+      "name": "LG Chem, Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 331500.0,
+        "rsi": 27.179487179487182,
+        "fundamental": {
+          "score": -2,
+          "insights": [
+            "Negative Profit Margin - Unprofitable"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 27670249209856,
+            "Profit Margin": -0.03129
+          }
+        }
+      },
+      "total_score": -2,
+      "market": "KR"
+    },
+    {
+      "ticker": "006400.KS",
+      "name": "Samsung SDI Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 272000.0,
+        "rsi": 28.67132867132868,
+        "fundamental": {
+          "score": -2,
+          "insights": [
+            "Negative Profit Margin - Unprofitable"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 23096580898816,
+            "Profit Margin": -0.04192
+          }
+        }
+      },
+      "total_score": -2,
+      "market": "KR"
+    },
+    {
+      "ticker": "010950.KS",
+      "name": "S-Oil Corporation",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 80500.0,
+        "rsi": 47.593582887700535,
+        "fundamental": {
+          "score": -2,
+          "insights": [
+            "Negative Profit Margin - Unprofitable"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 9371861909504,
+            "Profit Margin": -0.0052300002
+          }
+        }
+      },
+      "total_score": -2,
+      "market": "KR"
+    },
+    {
+      "ticker": "034020.KS",
+      "name": "Doosan Enerbility Co., Ltd.",
+      "analysis": {
+        "signal": "Neutral",
+        "score": 0,
+        "details": [],
+        "current_price": 75200.0,
+        "rsi": 35.91549295774648,
+        "fundamental": {
+          "score": -2,
+          "insights": [
+            "Negative Profit Margin - Unprofitable"
+          ],
+          "badges": [],
+          "key_metrics": {
+            "P/E": null,
+            "Market Cap": 48162978922496,
+            "Profit Margin": -0.00607
+          }
+        }
+      },
+      "total_score": -2,
+      "market": "KR"
+    }
+  ]
+}
